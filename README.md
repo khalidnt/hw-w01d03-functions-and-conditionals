@@ -8,12 +8,10 @@
 
 ## The World Translator
 
-## The World Translator
-
 Write a function named helloWorld that:
 
 - takes 1 argument, a language code (for example "english", "arabic", "french")
-- returns "Hello, World" for the given language, for atleast 3 languages. (i.e. if the language is English, print `"Hello World"`, if the language is Arabic write something `"مرحبا بالعالم"`, if the language is French print "Bonjour le monde")
+- returns "Hello, World" for the given language, for atleast 3 languages. (i.e. if the language is English, print `"Hello World"`, if the language is Arabic write something `"مرحبا بالعالم"`, if the language is French print `Bonjour le monde`)
 - Call that function for each of the supported languages and log the result to make sure it works.
 
 ## The Grade Assigner
